@@ -1,0 +1,30 @@
+body{
+  font-family: 'Franklin Gothic Medium';
+  background-color: cornsilk;
+}
+
+h1 {
+    background-color: rgb(217, 224, 224);
+    text-align: center;
+}
+.ad1{
+    border: 1cap;
+    background-color: cadetblue;
+}
+.email1{
+    background-color: cyan;
+    text-align: center;
+}
+.puan1{
+    background-color: darkgray;
+    text-align: end;
+}
+
+#my{
+    color: greenyellow;
+    font-family: 'Gill Sans';
+}
+h3{
+    font-family: 'Trebuchet MS', #'Lucida Sans Unicode', #'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: 200;
+}
